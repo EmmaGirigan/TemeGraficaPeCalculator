@@ -1,0 +1,4 @@
+C:\Users\emmag\source\repos\tema1gpc\Debug\tema1gpc.vcxproj.CopyComplete
+C:\Users\emmag\source\repos\tema1gpc\Debug\tema1gpc.exe
+C:\Users\emmag\source\repos\tema1gpc\Debug\tema1gpc.pdb
+C:\Users\emmag\source\repos\tema1gpc\Debug\freeglutd.dll
