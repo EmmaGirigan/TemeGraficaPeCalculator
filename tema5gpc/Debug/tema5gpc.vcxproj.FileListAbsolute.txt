@@ -1,0 +1,4 @@
+C:\Users\emmag\source\repos\TemeGraficaPeCalculator\tema5gpc\Debug\tema5gpc.vcxproj.CopyComplete
+C:\Users\emmag\source\repos\TemeGraficaPeCalculator\tema5gpc\Debug\tema5gpc.exe
+C:\Users\emmag\source\repos\TemeGraficaPeCalculator\tema5gpc\Debug\tema5gpc.pdb
+C:\Users\emmag\source\repos\TemeGraficaPeCalculator\tema5gpc\Debug\freeglutd.dll
